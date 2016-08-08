@@ -1,0 +1,1 @@
+scoop bucket add maobuck https://github.com/maoizm/scoopBucket

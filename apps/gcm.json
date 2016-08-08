@@ -1,0 +1,10 @@
+{ 
+	"homepage": "https://github.com/Microsoft/Git-Credential-Manager-for-Windows",
+	"version": "1.5.0", 
+	"license": "GPL2",
+	"url": "https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/download/v1.5.0/gcm-v1.5.0.zip", 
+	"bin": [
+		[ "Git-Credential-Manager.exe", "git-credential-manager" ],
+		[ "Git-Credential-Manager.exe", "gcm" ],
+	]
+}
